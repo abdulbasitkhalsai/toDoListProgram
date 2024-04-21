@@ -1,0 +1,20 @@
+{
+  "name": "todolistprogram",
+  "version": "1.0.0",
+  "description": "To Do List using Typescript with Inquirer and Chalk",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Basit Khalsai",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
